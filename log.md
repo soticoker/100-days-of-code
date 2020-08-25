@@ -10,4 +10,16 @@ I've gone through the next exercise on Skillshare's "Interactive Data Visualizat
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1297870607292538881?s=20
 
-### Day 
+### Day 2: Tuesday, 25th of August
+
+**Today's Progress**: 
+Today I was introduced to the concept of "promises" in JavaScript.  Promise functions allows the code to "wait" until a specific function has completed, then proceed to the next function.
+
+I also started plotting shapes on X and Y axis today. I also learned how to plot circles as well as link the size and position of the circles to data values in a CSV file.
+
+**Thoughts** 
+I making steady progress which is great. A great byproduct is that I'm beginning to master how to use eclipse IDE. Consistently using it every day has enabled me to become more more familiar with quirks and nuances. This definitely makes coding within eclipse much easier!
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1298311601834139649?s=20
+
