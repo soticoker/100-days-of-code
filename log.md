@@ -23,3 +23,14 @@ I making steady progress which is great. A great byproduct is that I'm beginning
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1298311601834139649?s=20
 
+### Day 3: Tuesday, 26th of August
+
+**Today's Progress**: 
+today I learned how to use d3 scale functions to position values in an svg object relative to the size of the canvas. Also how to sort data and find the minimum and maximum values within the column of data. All of this is working towards creating a scatter plot chart.
+
+**Thoughts** 
+it's important to document each function as I create it. Even though I understand it at the time, coming back to it a day or so later at this stage of my learning is difficult to comprehend what's going on.
+
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1298726824801861634?s=20
