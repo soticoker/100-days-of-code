@@ -34,3 +34,14 @@ it's important to document each function as I create it. Even though I understan
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1298726824801861634?s=20
+
+### Day 4: Thursday, 27th of August
+
+**Today's Progress**: 
+debugging, debugging, and more debugging. I have no idea what has gone wrong with my code. I've got no syntax errors, but the databases doing strange things it shouldn't be.
+
+**Thoughts** 
+it's been a long day and I'm doing my coding late in the evening. Maybe an idea to tackle this first thing in the morning when my mind is fresh.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1299046843788267521?s=20
