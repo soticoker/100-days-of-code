@@ -45,3 +45,15 @@ it's been a long day and I'm doing my coding late in the evening. Maybe an idea 
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1299046843788267521?s=20
+
+### Day 5: Friday 28th of August
+
+**Today's Progress**: 
+I won my debugging war today ! pesky semantic errors are the worst. they look like butter wouldn't melt but cause so much problems.   
+
+**Thoughts** 
+it was definitely a great idea to tackle my debugging issues first thing in the morning.  Attacking the problem with a clear head definitely helped.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1299392004686782464?s=20
+
