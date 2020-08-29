@@ -57,3 +57,13 @@ it was definitely a great idea to tackle my debugging issues first thing in the 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1299392004686782464?s=20
 
+### Day 6: Saturday 29th of August
+
+**Today's Progress**: 
+Learnt how to use d3 axis functions to create and label axes. Important to control which tick marks on the axes are visible because the default options are useful but not always good DataViz practice. 
+
+**Thoughts** 
+Grouping and shifting over the axes as a whole using svg "group" elements is crucial else you have to manually adjust all relevant axis elements individually.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1299669718261993472?s=20
