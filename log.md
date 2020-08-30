@@ -67,3 +67,14 @@ Grouping and shifting over the axes as a whole using svg "group" elements is cru
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1299669718261993472?s=20
+
+### Day 7: Sunday 30th of August
+
+**Today's Progress**: 
+created axis for my D3 DataViz and formatted them with CSS. Learnt how to use the D3 axis functions as well as how to transform/position them to where I want.	
+ 
+**Thoughts** 
+I had another pesky semantic error today. I've heard about JavaScript's legendary debugging difficulties. I think and begin to understand much better what people mean. In fairness, the problem was totally my fault, nothing to do with JavaScript :).
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1300091058492264449?s=20
