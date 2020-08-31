@@ -78,3 +78,24 @@ I had another pesky semantic error today. I've heard about JavaScript's legendar
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1300091058492264449?s=20
+
+### Day 8: Monday 31th of August
+
+**Today's Progress**: 
+Had a great day learning how to add animation to my D3 scatter plot using the transition function. The functions were surprisingly easy to use. More straightforward than I thought!
+
+**Thoughts** 
+Also took the time to heavily comment on my code.
+
+**Link(s) to work**
+
+### Day 8: Monday 31th of August
+
+**Today's Progress**: 
+Had a great day learning how to add animation to my D3 scatter plot using the transition function. The functions were surprisingly easy to use. More straightforward than I thought!
+
+**Thoughts** 
+Also took the time to heavily comment on my code.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1300411602546589696?s=20
