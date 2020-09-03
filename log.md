@@ -90,7 +90,7 @@ Also took the time to heavily comment on my code.
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1300411602546589696?s=20
 
-### Day 9: Monday 1st of September
+### Day 9: Tuesday 1st of September
 
 **Today's Progress**: 
 Not much coding today however, equally as important as setting up and tweaking my working environment and eclipse. Specifically, I set up content assist options. This definitely help to make writing code easier as well as highlighting multiple occurrences of the same variables.
@@ -100,3 +100,14 @@ Time well spent even though not much coding than today.
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1300873189178970112?s=20
+
+### Day 10: Thursday 3rd of September
+
+**Today's Progress**: 
+Learned how to add interactivity to my DataViz by creating a tooltip function.  
+
+**Thoughts** 
+working regularly with D3 everyday is starting to make a big difference.  
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1301491744719151107?s=20
