@@ -111,3 +111,14 @@ working regularly with D3 everyday is starting to make a big difference.
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1301491744719151107?s=20
+
+### Day 11: Friday 4th of September
+
+**Today's Progress**: 
+Learnt how to add finishing touches to my dataviz such as axis labels and how to format the overall DataViz from left to right so that it's easier for your audience to understand. 
+
+**Thoughts** 
+These finishing touches can be tedious but they make the difference between an okay DataViz and a great DataViz.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1301850866480304128?s=20
