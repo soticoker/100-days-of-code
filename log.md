@@ -122,3 +122,24 @@ These finishing touches can be tedious but they make the difference between an o
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1301850866480304128?s=20
+
+### Day 12: Sunday 5th of September
+
+**Today's Progress**: 
+Checked out D3 resources & examples on D3 website.
+My goal is to create a Scrollytelling project. I've heard many times that the best way to learn code is by creating a project you have passion for.  Therefore, I found a project that similar to the one I want to accomplish so I'm going to dissect it and break it down piece by piece. Here's the 
+
+Scrollytelling project by Bill Shander:
+https://beehivemedia.com/dataviz/occupations/
+
+https://medium.com/nightingale/creating-a-multisegment-scrollytelling-data-story-from-scratch-key-moments-and-lessons-e544ccdea51
+
+I realise now I'll also have to learn these key concepts:
+How to write fewer functions by using lodash https://lodash.com/
+and how to use Waypoints http://imakewebthings.com/waypoints/
+
+**Thoughts** 
+definitely feels like a big challenge. I'm not sure if I'd bitten off more than I can chew at this point. I guess we'll find out!
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1302539691158368256?s=20
