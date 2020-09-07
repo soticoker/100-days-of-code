@@ -132,7 +132,7 @@ My goal is to create a Scrollytelling project. I've heard many times that the be
 Scrollytelling project by Bill Shander:
 https://beehivemedia.com/dataviz/occupations/
 
-https://medium.com/nightingale/creating-a-multisegment-scrollytelling-data-story-from-scratch-key-moments-and-lessons-e544ccdea51
+https://medium.com/nightingale/creating-a-multisegment-scrollytelling-data-story-from-scratch-key-moments-and-lessons-e544ccdea516
 
 I realise now I'll also have to learn these key concepts:
 How to write fewer functions by using lodash https://lodash.com/
