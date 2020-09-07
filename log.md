@@ -5,7 +5,8 @@
 **Today's Progress**: 
 I've gone through the next exercise on Skillshare's "Interactive Data Visualization: Getting Started with D3.js" course. I created webpage to access and load CSV file into browser.
 
-**Thoughts** I've recently started coding, and it's a great feeling I'm making steady progress and looking forward to tomorrow's session.
+**Thoughts** 
+I've recently started coding, and it's a great feeling I'm making steady progress and looking forward to tomorrow's session.
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1297870607292538881?s=20
@@ -143,3 +144,14 @@ definitely feels like a big challenge. I'm not sure if I'd bitten off more than 
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1302539691158368256?s=20
+
+### Day 13: Monday 5th of September
+
+**Today's Progress**: 
+Learn how to use Waypoints in HTML. Realised that they can be a handful to update and maintain so will have to write code to make this process more efficient.
+
+**Thoughts** 
+There are many pieces to this jigsaw. There's a lot of work besides coding that needs to be done making it difficult to code every day.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1303032750774071296?s=20
