@@ -155,3 +155,14 @@ There are many pieces to this jigsaw. There's a lot of work besides coding that 
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1303032750774071296?s=20
+
+### Day 14: Wednesday 6th of September
+
+**Today's Progress**: 
+Investigated 6 different processes for creating scrollytelling pages. Started creating a small version to get everything working and test out.
+
+**Thoughts** 
+keep on moving.
+
+**Link(s) to work**
+https://twitter.com/SotiCoker/status/1303749689196662787?s=20
