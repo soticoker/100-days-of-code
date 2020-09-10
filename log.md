@@ -167,7 +167,8 @@ keep on moving.
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1303749689196662787?s=20
 
-Day 15: Thursday 7th of September
+### Day 15: Thursday 7th of September
+
 **Today's Progress**: 
 Realised today that I need to pause and improve my web development skills first. I need to be able to manipulate a webpage so it's a step back to HTML webpage creation 101.
 
