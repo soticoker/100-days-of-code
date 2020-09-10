@@ -166,3 +166,13 @@ keep on moving.
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1303749689196662787?s=20
+
+Day 15: Thursday 7th of September
+**Today's Progress**: 
+Realised today that I need to pause and improve my web development skills first. I need to be able to manipulate a webpage so it's a step back to HTML webpage creation 101.
+
+**Thoughts**: 
+found an online course that I can use with the scrolllama.js JavaScript library. I'm hoping to adapt this tutorial to my own DataViz story as I progress instead of completing the tutorial first, then adapting it etc.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1304065260681338883?s=20
