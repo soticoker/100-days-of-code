@@ -26,6 +26,7 @@ I making steady progress which is great. A great byproduct is that I'm beginning
 https://twitter.com/SotiCoker/status/1298311601834139649?s=20
 
 ### Day 3: Tuesday, 26th of August
+![D3 DataViz_1](https://user-images.githubusercontent.com/63045067/93023759-195e0a80-f5e9-11ea-846c-dc4a63cfbd18.jpg)
 
 **Today's Progress**: 
 today I learned how to use d3 scale functions to position values in an svg object relative to the size of the canvas. Also how to sort data and find the minimum and maximum values within the column of data. All of this is working towards creating a scatter plot chart.
@@ -49,6 +50,7 @@ it's been a long day and I'm doing my coding late in the evening. Maybe an idea 
 https://twitter.com/SotiCoker/status/1299046843788267521?s=20
 
 ### Day 5: Friday 28th of August
+![D3 DataViz_2](https://user-images.githubusercontent.com/63045067/93023777-46122200-f5e9-11ea-8fb5-c70702bd91a2.jpg)
 
 **Today's Progress**: 
 I won my debugging war today ! pesky semantic errors are the worst. they look like butter wouldn't melt but cause so much problems.   
@@ -115,6 +117,7 @@ working regularly with D3 everyday is starting to make a big difference.
 https://twitter.com/SotiCoker/status/1301491744719151107?s=20
 
 ### Day 11: Friday 4th of September
+![D3 final DataViz](https://user-images.githubusercontent.com/63045067/93023796-71950c80-f5e9-11ea-9319-b09d6fc8512f.png)
 
 **Today's Progress**: 
 Learnt how to add finishing touches to my dataviz such as axis labels and how to format the overall DataViz from left to right so that it's easier for your audience to understand. 
