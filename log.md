@@ -181,3 +181,17 @@ found an online course that I can use with the scrolllama.js JavaScript library.
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1304065260681338883?s=20
+
+
+### Day 17: Sunday 13th of September
+![1st-Scrollytelling-project_1](https://user-images.githubusercontent.com/63045067/93025472-31885680-f5f6-11ea-9681-0d4c4af7f3d5.gif)
+
+**Today's Progress**: 
+Decided to use the scrollama.js JavaScript library to do the heavy lifting. Have been experimenting with this and working on a small skeleton Scrollytelling framework. Finally completed it today! It's pretty basic, but it's a good foundation to build off.
+
+**Thoughts**: 
+definitely a good idea to stop focusing on completing tutorials to start creating your own real-world projects.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1305209159474872321?s=20
+
