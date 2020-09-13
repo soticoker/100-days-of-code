@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: Monday 24th August
+![eclipsecoding](https://user-images.githubusercontent.com/63045067/93023743-e4ea4e80-f5e8-11ea-94b7-c48aa453b039.jpg)
 
 **Today's Progress**: 
 I've gone through the next exercise on Skillshare's "Interactive Data Visualization: Getting Started with D3.js" course. I created webpage to access and load CSV file into browser.
