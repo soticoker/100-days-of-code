@@ -195,3 +195,15 @@ definitely a good idea to stop focusing on completing tutorials to start creatin
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1305209159474872321?s=20
 
+### Day 18: Tuesday 15th of September
+
+**Today's Progress**: 
+Reading up on scrollama.js Documentation
+https://github.com/russellgoldenberg/scrollama#how-to-use
+
+**Thoughts**: 
+My CSS isn't as strong as I thought it was, need to brush up on that.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1305943263975813133?s=20
+
