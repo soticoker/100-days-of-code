@@ -198,6 +198,8 @@ https://twitter.com/SotiCoker/status/1305209159474872321?s=20
 ### Day 18: Tuesday 15th of September
 
 **Today's Progress**: 
+![scrollama](https://user-images.githubusercontent.com/63045067/93252625-a80b8c80-f78d-11ea-9320-4d610d3cabfd.png)
+
 Reading up on scrollama.js Documentation
 https://github.com/russellgoldenberg/scrollama#how-to-use
 
