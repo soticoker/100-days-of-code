@@ -207,6 +207,14 @@ https://github.com/russellgoldenberg/scrollama#how-to-use
 **Thoughts**: 
 My CSS isn't as strong as I thought it was, need to brush up on that.
 
+### Day 19: Thursday 17th of September
+
+**Today's Progress**: 
+still learning CSS and experimented with some alternative CSS setups.
+
+**Thoughts**: 
+CSS is a vast topic so it's important to learn just enough to keep you moving forward.
+
 **Link(s) to work**:
-https://twitter.com/SotiCoker/status/1305943263975813133?s=20
+https://twitter.com/SotiCoker/status/1306653173025837062?s=20
 
