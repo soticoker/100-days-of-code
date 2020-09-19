@@ -218,3 +218,13 @@ CSS is a vast topic so it's important to learn just enough to keep you moving fo
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1306653173025837062?s=20
 
+### Day 20: Saturday 19th of September
+
+**Today's Progress**: 
+For the last week, I've been transitioning from Eclipse IDE to  Visual studio code. This has left little time for d3. I also use Vocola for voice coding to help with typing fatigue and to program JavaScript so have been setting up my new coding environment.
+
+**Thoughts**: 
+Even though it's been frustrating not doing as much coding as I'd like to have done this week, it's been time well spent! VS code is a much better code editor than Eclipse.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1307374154132398085?s=20
