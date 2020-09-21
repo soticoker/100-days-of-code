@@ -228,3 +228,14 @@ Even though it's been frustrating not doing as much coding as I'd like to have d
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1307374154132398085?s=20
+
+### Day 21: Monday 20th of September
+
+**Today's Progress**: 
+Have been experimenting & tweaking my scrollama.js setup. So much is possible, have been exploring.    
+
+**Thoughts**: 
+Time to turn my focus back to core D3 programming & taks a break from web dev/CSS stuff.  
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1308120395313274880?s=20
