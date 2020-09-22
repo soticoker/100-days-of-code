@@ -239,3 +239,15 @@ Time to turn my focus back to core D3 programming & taks a break from web dev/CS
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1308120395313274880?s=20
+
+
+### Day 22: Tuesday 21st of September
+
+**Today's Progress**: 
+Bookmarked my favourite d3 chart examples from D3.org that I'm likely to use for my project and working through their sample code. Discover D3.org's sister platform observable, signed up and started using that.
+
+**Thoughts**: 
+Great to take a break from Scrollytelling/CSS/Web development and refocus on D3 again!
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1308468667445915652?s=20
