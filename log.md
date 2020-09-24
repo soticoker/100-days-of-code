@@ -235,7 +235,7 @@ https://twitter.com/SotiCoker/status/1307374154132398085?s=20
 Have been experimenting & tweaking my scrollama.js setup. So much is possible, have been exploring.    
 
 **Thoughts**: 
-Time to turn my focus back to core D3 programming & taks a break from web dev/CSS stuff.  
+Time to turn my focus back to core D3 programming & take a break from web dev/CSS stuff.  
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1308120395313274880?s=20
@@ -251,3 +251,25 @@ Great to take a break from Scrollytelling/CSS/Web development and refocus on D3 
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1308468667445915652?s=20
+
+### Day 23: Thursday 24th of September
+![ukgeomap](https://user-images.githubusercontent.com/63045067/94185841-bd736b80-fe9d-11ea-9c2f-5052bcb3d899.png)
+
+**Today's Progress**: 
+I'm trying to Creating a UK choropleth map in D3. I need to create a GeoJSON file and the steps involved are:
+
+find shape files
+choose a resolution
+simplify the shapes
+convert to GeoJSON
+choose a projection
+
+Have completed all the steps except for "choose a projection"
+
+**Thoughts**: 
+need to read up on how to choose the right projection for my maps:
+https://source.opennews.org/articles/choosing-right-map-projection/
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1309200625532653568?s=20
+
