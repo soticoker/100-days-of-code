@@ -273,3 +273,17 @@ https://source.opennews.org/articles/choosing-right-map-projection/
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1309200625532653568?s=20
 
+### Day 24: Thursday 1st of October 
+
+![worldmap](https://user-images.githubusercontent.com/63045067/94849508-6fbaae00-041d-11eb-8982-ce5f24a4cf41.png)
+
+
+**Today's Progress**: 
+Struggling with Choosing a projection and getting it to work work in d3. Today I analysed and narrowed down my problem to the fact that I need to choose my projection method more carefully and study which parameters need to be set in order for that projection to work.
+
+**Thoughts**: 
+Working with projections in D3 is harder than I anticipated and I must admit, it's driving me crazy.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1311736040680574976?s=20
+
