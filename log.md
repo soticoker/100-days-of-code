@@ -287,3 +287,23 @@ Working with projections in D3 is harder than I anticipated and I must admit, it
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1311736040680574976?s=20
 
+### Day 25: Saturday 3rd of October 
+
+![myd3worldmap](https://user-images.githubusercontent.com/63045067/94987515-d4315680-055e-11eb-8ac3-32aa69b0ff19.jpg)
+
+**Today's Progress**: 
+Success! After a week of fighting with d3, actually fighting with geometric data and rendering it in D3, I have a successful world map!
+
+**Thoughts**: 
+There are many steps involved in this process, many places to trip up. However, I reckon it's a good idea to not start from scratch when it comes to GIS data until you are at least intermediate skill level. 
+
+My Achilles heel in this process was dealing with Geojson and TopoJSON data. I needed to better understand the underlying structure or at least be better able to "see" the data or have a better way of understanding how it was structured.
+
+There is so much great work out there already done to help you get started. I simply didn't realise that. The upshot is, I've learned a lot more about GIS data, shape files, GeoJSON, TopoJSON, map projections etc.
+
+**Next steps**
+I need to filter this world map data and only show the UK countries.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1312315382506688517?s=20
+
