@@ -307,3 +307,19 @@ I need to filter this world map data and only show the UK countries.
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1312315382506688517?s=20
 
+### Day 26: Monday 4th of October 
+
+![git](https://user-images.githubusercontent.com/63045067/95120225-20d68680-0745-11eb-8fc7-39bff6ba5caa.jpg)
+
+**Today's Progress**: 
+Learning how to use Git to manage version control.  
+
+**Thoughts**: 
+It's time to learn this handy tool because my manual methods of saving different versions is becoming really tedious.  
+
+**Next steps**
+Learn how to push code to Github
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1313191398557077505?s=20
+
