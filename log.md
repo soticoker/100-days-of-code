@@ -323,3 +323,16 @@ Learn how to push code to Github
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1313191398557077505?s=20
 
+### Day 27: Tuesday 5th of October 
+
+**Today's Progress**: 
+Have been practising using Git locally.  
+
+**Thoughts**: 
+need to practice lots so that this becomes second nature.
+
+**Next steps**
+practice, practice, practice!
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1313556428439912448?s=20
