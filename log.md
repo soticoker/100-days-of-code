@@ -339,6 +339,8 @@ https://twitter.com/SotiCoker/status/1313556428439912448?s=20
 
 ### Day 28: Thursday 8th of October 
 
+![mygit1](https://user-images.githubusercontent.com/63045067/95498877-5cb75900-099c-11eb-84e8-3b92d8e43d43.jpg)
+
 **Today's Progress**: 
 Started using Git through the command prompt properly today. I'm going through all my main  project files and setting up Git to work with them!
 
