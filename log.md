@@ -336,3 +336,14 @@ practice, practice, practice!
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1313556428439912448?s=20
+
+### Day 28: Thursday 8th of October 
+
+**Today's Progress**: 
+Started using Git through the command prompt properly today. I'm going through all my main  project files and setting up Git to work with them!
+
+**Thoughts**: 
+Should have learnt how to use Git years ago!
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1314270103324758017?s=20
