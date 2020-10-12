@@ -349,3 +349,20 @@ Should have learnt how to use Git years ago!
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1314270103324758017?s=20
+
+### Day 29: 11th of October 
+
+![day29_2](https://user-images.githubusercontent.com/63045067/95708306-d036c000-0c53-11eb-9773-134a8c0431bd.png)
+
+**Today's Progress**: 
+Edited my world map d3 projection and created a UK map projection.  Had trouble for a while accessing the correct objects within the UK TopoJSON structure.  
+This can be tricky to get.   
+
+**Thoughts**: 
+my map is kind of small.  I need to work on the scaling function is to get the right size.
+
+**Next steps**: 
+Implement mouseover functions
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1315525181041971202?s=20
