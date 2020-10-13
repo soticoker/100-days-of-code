@@ -366,3 +366,18 @@ Implement mouseover functions
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1315525181041971202?s=20
+
+### Day 30: 13th of October 
+
+![ukmap](https://user-images.githubusercontent.com/63045067/95905935-5efd2700-0d91-11eb-946f-588e895135db.jpg)
+
+**Today's Progress**: 
+Learn how to control the size of my map by using D3 fitSize function.  Also created & started using a development branch in Git to keep my new updates separate from my stable code.
+
+**Thoughts**: 
+
+**Next steps**: 
+Turn this into a Choropleth map.  
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1316097421051650048?s=20
