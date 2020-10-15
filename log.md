@@ -381,3 +381,18 @@ Turn this into a Choropleth map.
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1316097421051650048?s=20
+
+### Day 31: 15th of October 
+
+**Today's Progress**: 
+Spend my time researching a project idea I have. It's to do a DataViz on the Metropolitan police's use of facial recognition software. More accurately, how many true positive versus false positive matches the system has and how many people are wrongfully stopped and searched as a result. 
+
+**Thoughts**: 
+facial recognition systems are new and therefore very little data is available.  
+Maybe widen the net and do one on surveillance instead.  
+
+**Next steps**: 
+Looking into researching the accuracy of the facial recognition software system the police are using.
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1316781668716482562?s=20
