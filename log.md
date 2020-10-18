@@ -396,3 +396,16 @@ Looking into researching the accuracy of the facial recognition software system 
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1316781668716482562?s=20
+
+
+### Day 32: 18th of October 
+
+**Today's Progress**: 
+Work progressing on my Choropleth map 
+Learned how to use GPS visualiser : https://www.gpsvisualizer.com/geocoder/
+to batch geocode towns in Kent.  I.e generate latitude and longitude coordinates for each town.
+Website is also good tool to help you check/proect on to a map your geo-coordinates.  
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1317895413765210112?s=20
+
