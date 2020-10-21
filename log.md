@@ -409,3 +409,16 @@ Website is also good tool to help you check/proect on to a map your geo-coordina
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1317895413765210112?s=20
 
+
+### Day 33: 21sh of October 
+
+![qgislogo](https://user-images.githubusercontent.com/63045067/96754376-2086ee00-13c9-11eb-8f28-a99c8e31ac9d.png)
+
+**Today's Progress**: 
+Haven't posted much lately but have been wrestling with generating usable UK map geojson data.  Turns out the UK uses a different mapping coordinate system and this little detail turned into a massive investigation & has set me back a few days.  
+
+**Thoughts**: 
+Wasted quite a bit of time using mapshaper.org.  I used the site to simplify my original shape files and the website kept changing/screwing up my mapping coordinate system! Or it kept reverting to a different WS84 system which is the international standard.  Lesson learnt.   
+
+**Link(s) to work**:
+https://twitter.com/SotiCoker/status/1318963053392789504?s=20
