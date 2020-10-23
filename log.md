@@ -83,6 +83,7 @@ I had another pesky semantic error today. I've heard about JavaScript's legendar
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1300091058492264449?s=20
 
+
 ### Day 8: Monday 31th of August
 
 **Today's Progress**: 
@@ -127,6 +128,7 @@ These finishing touches can be tedious but they make the difference between an o
 
 **Link(s) to work**
 https://twitter.com/SotiCoker/status/1301850866480304128?s=20
+
 
 ### Day 12: Sunday 5th of September
 
@@ -339,7 +341,7 @@ https://twitter.com/SotiCoker/status/1313556428439912448?s=20
 
 ### Day 28: Thursday 8th of October 
 
-![mygit1](https://user-images.githubusercontent.com/63045067/95498877-5cb75900-099c-11eb-84e8-3b92d8e43d43.jpg)
+![mygit_2](https://user-images.githubusercontent.com/63045067/97037838-c8372400-1561-11eb-83f4-6d0921b7dc85.jpg)
 
 **Today's Progress**: 
 Started using Git through the command prompt properly today. I'm going through all my main  project files and setting up Git to work with them!
