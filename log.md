@@ -427,7 +427,7 @@ https://twitter.com/SotiCoker/status/1318963053392789504?s=20
 
 ### Day 34: sixth of November
 
-UK choropleth map
+**UK choropleth map**
 Have struggled a bit lately with getting all the mapping data together for my UK choropleth map. I was spending more time on GIS mapping data than I was on D3 so have parked that project for now.  Have also neglected my 100Days project lately but I'm back with a vengance !
 
 **Today's Progress**: 
@@ -438,8 +438,8 @@ I’m now working on converting a data story I created for a webinar from a slid
 **Thoughts**: 
 I got blown off course for a bit with the GIS data new project. I think it's best to set time limits on certain tasks to keep moving forward.
 
-
 **Link(s) to work**:
+https://twitter.com/SotiCoker/status/1324689292984262659?s=20
 
 
 
