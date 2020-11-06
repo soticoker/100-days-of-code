@@ -412,7 +412,7 @@ Website is also good tool to help you check/proect on to a map your geo-coordina
 https://twitter.com/SotiCoker/status/1317895413765210112?s=20
 
 
-### Day 33: 21sh of October 
+### Day 33: 21st of October 
 
 ![qgislogo](https://user-images.githubusercontent.com/63045067/96754376-2086ee00-13c9-11eb-8f28-a99c8e31ac9d.png)
 
@@ -424,3 +424,22 @@ Wasted quite a bit of time using mapshaper.org.  I used the site to simplify my 
 
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1318963053392789504?s=20
+
+### Day 34: sixth of November
+
+UK choropleth map
+Have struggled a bit lately with getting all the mapping data together for my UK choropleth map. I was spending more time on GIS mapping data than I was on D3 so have parked that project for now.  Have also neglected my 100Days project lately but I'm back with a vengance !
+
+**Today's Progress**: 
+![job_automation_code](https://user-images.githubusercontent.com/63045067/98364669-1b60aa80-2029-11eb-88c5-64b40c6c346c.png)
+
+I’m now working on converting a data story I created for a webinar from a slides version to an online Scrollytelling version. Today I set up the HTML/CSS code framework to contain my data visualisations.
+
+**Thoughts**: 
+I got blown off course for a bit with the GIS data new project. I think it's best to set time limits on certain tasks to keep moving forward.
+
+
+**Link(s) to work**:
+
+
+
