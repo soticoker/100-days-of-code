@@ -441,5 +441,17 @@ I got blown off course for a bit with the GIS data new project. I think it's bes
 **Link(s) to work**:
 https://twitter.com/SotiCoker/status/1324689292984262659?s=20
 
+### Day 35: 7th of November  
+
+![treemap](https://user-images.githubusercontent.com/63045067/98440735-5f6bb200-20f2-11eb-97e7-b3236c3309e2.png)
+
+**Today's Progress**:   
+Learned how to create a tree map diagram in d3.  
+
+**Thoughts**:   
+Still learning to fully understand D3.hierarchy and stratify functions which are essential to a tree map config.  
+
+**Link(s) to work**:  
+https://twitter.com/SotiCoker/status/1325047839911796736?s=20  
 
 
