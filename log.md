@@ -454,4 +454,17 @@ Still learning to fully understand D3.hierarchy and stratify functions which are
 **Link(s) to work**:  
 https://twitter.com/SotiCoker/status/1325047839911796736?s=20  
 
+### Day 36: 8th of November  
+
+![treemap1](https://user-images.githubusercontent.com/63045067/98470578-7ee00900-21de-11eb-8f6d-89648b5d263d.png)
+
+**Today's Progress**:   
+Got a basic TreeMap working with my own data. Turns out the data format/hierarchical format for a tree map is way different than normal.  
+
+**Thoughts**:   
+might be worth spending some time revising my nested array/object type notation.  
+
+**Link(s) to work**:  
+https://twitter.com/SotiCoker/status/1325475484537384960?s=20  
+
 
