@@ -467,4 +467,16 @@ might be worth spending some time revising my nested array/object type notation.
 **Link(s) to work**:  
 https://twitter.com/SotiCoker/status/1325475484537384960?s=20  
 
+### Day 37: 9th of November   
+
+**Today's Progress**:   
+Focused on JavaScript today. Specifically on learning about the JSON file format notation and rules.  
+
+**Thoughts**:    
+Need to practice working with json files so that it’s easy to deal with nested objects/arrays within Json files   
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1325843834388029440?s=20
+
+
 
