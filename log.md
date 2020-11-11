@@ -478,5 +478,19 @@ Need to practice working with json files so that it’s easy to deal with nested
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1325843834388029440?s=20
 
+### Day 38: 11th of November   
+
+![observable](https://user-images.githubusercontent.com/63045067/98856027-e0111200-2454-11eb-9549-275197ffb8c7.jpg)
+
+**Today's Progress**:   
+Learning how to use Observable https://observablehq.com/, D3's latest code repository/online notebook and collaboration space.  
+There's a bit of a learning curve but I've been told it's well worth it!
+https://www.youtube.com/watch?v=b6ZiSpi3Hrs&list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e&index=2
+
+**Thoughts**:    
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1326608822237089796?s=20
+
 
 
