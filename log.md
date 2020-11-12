@@ -492,5 +492,18 @@ https://www.youtube.com/watch?v=b6ZiSpi3Hrs&list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7F
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1326608822237089796?s=20
 
+### Day 39: 12th of November   
+
+![observable2](https://user-images.githubusercontent.com/63045067/98985470-858eb900-251b-11eb-9dd4-c9d56f4bb143.jpg)
+
+**Today's Progress**:   
+Learning to Use Observable, today learnt about Differences between Observable and JavaScript!
+https://www.youtube.com/watch?v=5MNWDVThI5A&list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e&index=5
+
+
+**Thoughts**:    
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1326967617769402368?s=20
 
 
