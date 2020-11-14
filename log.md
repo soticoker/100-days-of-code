@@ -506,4 +506,14 @@ https://www.youtube.com/watch?v=5MNWDVThI5A&list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7F
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1326967617769402368?s=20
 
+### Day 40: 14th of November   
+
+**Today's Progress**:   
+Have been brushing up on my JavaScript Objects & Arrays data structures today.  
+
+**Thoughts**:    
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1327646541180440576?s=20
+
 
