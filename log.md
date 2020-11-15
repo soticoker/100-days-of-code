@@ -517,3 +517,16 @@ Have been brushing up on my JavaScript Objects & Arrays data structures today.
 https://twitter.com/SotiCoker/status/1327646541180440576?s=20
 
 
+### Day 41: 15th of November   
+
+![observable2](https://user-images.githubusercontent.com/63045067/99191639-d265d000-2765-11eb-8da4-3aa7abad6181.jpg)
+
+
+**Today's Progress**:   
+Practiced coding Observable syntax, markdown & HTML in my Observable notebook.  
+
+**Thoughts**:    
+In many ways Observable is easier but it is defo different ! My learning continues...
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1328024164670828546?s=20
