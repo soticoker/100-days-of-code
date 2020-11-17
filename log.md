@@ -530,3 +530,21 @@ In many ways Observable is easier but it is defo different ! My learning continu
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1328024164670828546?s=20
+
+
+### Day 42: 17th of November   
+
+![learning observable](https://user-images.githubusercontent.com/63045067/99417117-762fb700-28f1-11eb-8fc4-bf07ab0d9064.jpg)
+
+**Today's Progress**:   
+Completed the "Learning Observable" video series by Anjana Vakil on Youtube https://www.youtube.com/playlist?list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e
+
+I learned how Observable uses reactive dataflow to cascade down data value changes, how users can input values and you can make your chart interactive as well as hot to remix cells and and share your work online.
+
+**Thoughts**:    
+My goal was to learn Observable to the point where I can use it is to find design examples, modify them and use them in my code. I've achieved that!
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1328738400980115457?s=20
+
+
