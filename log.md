@@ -547,4 +547,16 @@ My goal was to learn Observable to the point where I can use it is to find desig
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1328738400980115457?s=20
 
+### Day 43: 19th of November   
+
+![datalabels_1](https://user-images.githubusercontent.com/63045067/99711472-b7fb6180-2a99-11eb-9b51-c87b98d97103.png)
+
+**Today's Progress**:   
+
+Learnt how to use D3 to add data labels to the columns in my bar chart as well. Also created a function to control the colour changes in the bars depending on the data values.
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1329503201364746247?s=20
+
+
 
