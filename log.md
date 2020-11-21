@@ -558,5 +558,13 @@ Learnt how to use D3 to add data labels to the columns in my bar chart as well. 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1329503201364746247?s=20
 
+### Day 44: 21th of November   
+
+
+**Today's Progress**:   
+I learned how to create a scatter plot diagram in D3 today. Turns out, that when you're transforming values into the scatter plots circles, Instead of mapping the data values to radius, it's much better to use a formula and turn those values into "area", and map that instead!
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1330201849228619784?s=20
 
 
