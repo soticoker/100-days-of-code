@@ -568,3 +568,12 @@ I learned how to create a scatter plot diagram in D3 today. Turns out, that when
 https://twitter.com/SotiCoker/status/1330201849228619784?s=20
 
 
+### Day 45: 23rd of November   
+
+![d3scalesforscatterplot](https://user-images.githubusercontent.com/63045067/99998883-42540600-2db7-11eb-838b-51ec6d739ebb.jpg)
+
+**Today's Progress**:   
+Learned how to use D3 scales to position the circles on my scatter plot today! Also, Instead of using a formula to calculate the circles area values using phi, I created a custom function that uses D3's scale linear function.												
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1330942571909148687?s=20
