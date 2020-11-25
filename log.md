@@ -577,3 +577,14 @@ Learned how to use D3 scales to position the circles on my scatter plot today! A
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1330942571909148687?s=20
+
+
+### Day 46: 25th of November   
+
+![loopingatriangle](https://user-images.githubusercontent.com/63045067/100267572-9263d180-2f4b-11eb-8703-ab31ae47a84b.jpg)
+
+**Today's Progress**:   
+I've been experiencing a lot of "two steps forward, one step back" lately. I've been trying to limit this by going over d3 functions I use regularly but aren't really competent with. I wanted to take that further and I decided to include the JavaScript language in my recap studies. So today, I learnt how to use a while loop to create a recursive function.
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1331669124599181312?s=20
