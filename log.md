@@ -588,3 +588,14 @@ I've been experiencing a lot of "two steps forward, one step back" lately. I've 
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1331669124599181312?s=20
+
+### Day 47: 26th of November   
+
+![fizzbuzz1](https://user-images.githubusercontent.com/63045067/100384688-a0cbef00-3018-11eb-86a9-13edd386e109.jpg)
+
+**Today's Progress**:   
+Completed 2/3 of JavaScript FizzBuzz coding challenge. My program uses the remainder '%' operator to figure out which numbers between 1-100 are divisible by three or five and outputs different text depending on the result. Great for practising my while loops and if statements!
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1332039354991194113?s=20
+
