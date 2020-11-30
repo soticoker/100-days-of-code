@@ -599,3 +599,17 @@ Completed 2/3 of JavaScript FizzBuzz coding challenge. My program uses the remai
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1332039354991194113?s=20
 
+### Day 48: 30th of November   
+
+**Today's Progress**:   
+
+-Completed JavaScript FizzBuzz coding challenge. 
+-Read chapter on Functions from Eloquent JavaScript book & learnt about:
+function definitions, bindings and scopes, recursion, arrow fundtions, closure etc !
+
+An excellent read if I do say so !!
+
+Have a great week !
+
+**Link(s) to work**:   
+
