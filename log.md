@@ -613,3 +613,18 @@ Have a great week !
 
 **Link(s) to work**:   
 
+### Day 49: 1st of December
+
+**Today's Progress**:   
+
+Still deep in the trenches practising JavaScript.  
+My temporary detour from D3 seems like a long time now but the 
+JavaScript skills are becoming so handy!
+
+-Learned how the Call Stack works
+-Learned how to use chrome debugger in dev tools
+-completed JavaScript recursion coding challenge - that was tough !
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1333838107863609344?s=20
+
