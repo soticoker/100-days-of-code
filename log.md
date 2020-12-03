@@ -628,3 +628,18 @@ JavaScript skills are becoming so handy!
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1333838107863609344?s=20
 
+### Day 50: 3rd of December
+
+![treemap](https://user-images.githubusercontent.com/63045067/101078352-f3b82000-359d-11eb-9bea-1baf632b0a22.jpg)
+
+**Today's Progress**:   
+
+After a week away on a JavaScript coding detour, I'm back working on my D3 tree map!
+It was definitely a good idea to take a step back brush up on my JavaScript, I highly recommend it! 
+Today I 
+-learned how to used d3-hierarchy function.  
+https://observablehq.com/@d3/d3-hierarchy  
+-been experimenting with my json hierarchy data to get the hierarchies right  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1334583109396860929?s=20
