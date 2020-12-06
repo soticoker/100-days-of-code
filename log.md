@@ -643,3 +643,20 @@ https://observablehq.com/@d3/d3-hierarchy
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1334583109396860929?s=20
+
+### Day 51: 6th of December
+
+![colourful treemap](https://user-images.githubusercontent.com/63045067/101287647-6d901980-37e9-11eb-97ab-f2b5c449ba02.jpg)
+
+**Today's Progress**:   
+
+It's been a tough day grappling with my tree map.  I continued  
+to experiment with different data hierarchies 
+
+Read d3.hierarchy documentation
+https://github.com/d3/d3-hierarchy/tree/v2.0.0
+
+Use ordinal scale function to change te colours of my tree map cells
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1335641282992087040?s=20
