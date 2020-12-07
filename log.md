@@ -660,3 +660,12 @@ Use ordinal scale function to change te colours of my tree map cells
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1335641282992087040?s=20
+
+### Day 52: 7th of December  
+
+**Today's Progress**:   
+
+No coding today.  Spent the time planning the 2nd half of my 100DaysOfCode challenge and thinking about how I can use constraints to maintain momentum & improve my learning & progress.  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1336006424414068736?s=20
