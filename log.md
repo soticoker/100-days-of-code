@@ -676,10 +676,13 @@ https://twitter.com/SotiCoker/status/1336006424414068736?s=20
 
 **Today's Progress**:   
 Have a super productive day today.  The kind when you can code all day uninterrupted ! 🙌
-Learnt how to use d3 Scales to work with time & data values, converting them between string & Date types.  
-✔Completed the chapter on 'Axes'.  Learnt how to :
-✔create X & Y Axis using d3.axisBottom, d3.axisLeft etc. How to position them where you want using translation and transform functions.  
-✔How to generate Axes both dynamically & manually, also finally how to format the ‘Ticks’ on the Axis the way you want and CSS styling.  
+
+✔Learnt how to use d3 Scales to work with time & data values, converting them between string & Date types.  
+✔Completed the chapter on 'Axes'.  
+✔Learnt how to create X & Y Axis using d3.axisBottom, d3.axisLeft etc. 
+✔How to position them where you want using translation and transform functions.  
+✔How to generate Axes both dynamically & manually, also finally 
+✔how to format the ‘Ticks’ on the Axis the way you want and CSS styling.  
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1336394917434810368?s=20
