@@ -669,3 +669,18 @@ No coding today.  Spent the time planning the 2nd half of my 100DaysOfCode chall
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1336006424414068736?s=20
+
+### Day 53: 8th of December
+
+![axesforscatterplot](https://user-images.githubusercontent.com/63045067/101530378-baaaf180-3989-11eb-8f1b-9af0e831fd94.png)
+
+**Today's Progress**:   
+Have a super productive day today.  The kind when you can code all day uninterrupted ! 🙌
+Learnt how to use d3 Scales to work with time & data values, converting them between string & Date types.  
+✔Completed the chapter on 'Axes'.  Learnt how to :
+✔create X & Y Axis using d3.axisBottom, d3.axisLeft etc. How to position them where you want using translation and transform functions.  
+✔How to generate Axes both dynamically & manually, also finally how to format the ‘Ticks’ on the Axis the way you want and CSS styling.  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1336394917434810368?s=20
+
