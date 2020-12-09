@@ -687,3 +687,14 @@ Have a super productive day today.  The kind when you can code all day uninterru
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1336394917434810368?s=20
 
+### Day 54: 9th of December
+
+**Today's Progress**:   
+So one of the constraint's I identified a couple of days, was to work towards getting a thorough grounding in D3 before I start working on my own projects.  
+
+I'm working through Scott Murrays d3 book, 'Interactive dataviz for the web' but I've heard advice so many times saying the best way to learn coding is to work on a project.  I think that's true but I reckon that advice works best only after you know all/most of the basics, right ?
+
+Completed final exercise in chapter on creating axes. 
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1336755519000899593?s=20
