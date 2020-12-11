@@ -698,3 +698,13 @@ Completed final exercise in chapter on creating axes.
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1336755519000899593?s=20
+
+### Day 55: 11th of December
+
+**Today's Progress**:   
+Today I learned how to use "ordinal/band" scales to dynamically control the width of the bars in bar charts. This means I can change the image and data size and the bar sizes will adjust automatically!
+Also started learning how to use event listeners in d3.
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1337476014163841024?s=20
+
