@@ -710,7 +710,9 @@ https://twitter.com/SotiCoker/status/1337476014163841024?s=20
 
 ### Day 56: 12th of December
 
-![updatebarcharts](https://user-images.githubusercontent.com/63045067/101985219-90557e80-3c7e-11eb-9710-2e1644e81318.png)
+![updatebarcharts](https://user-images.githubusercontent.com/63045067/101985219-90557e80-3c7e-11eb-9710-2e1644e81318.png)   
+
+<iframe src="https://giphy.com/embed/lEL3PXepi64hMskOAJ" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lEL3PXepi64hMskOAJ">via GIPHY</a></p>   
 
 **Today's Progress**:   
 
