@@ -708,3 +708,15 @@ Also started learning how to use event listeners in d3.
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1337476014163841024?s=20
 
+### Day 56: 12th of December
+
+![updatebarcharts](https://user-images.githubusercontent.com/63045067/101985219-90557e80-3c7e-11eb-9710-2e1644e81318.png)
+
+**Today's Progress**:   
+
+Yesterday I learned how to use event listeners. Today I Created a function to update my bar chart data using the on click event listener.  This worked, however the data labels were messed up and all over the place so have to create another function to fix the issue so that the bar charts labels updated properly.  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1337749173806960640?s=20
+
+
