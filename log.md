@@ -719,4 +719,15 @@ Yesterday I learned how to use event listeners. Today I Created a function to up
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1337749173806960640?s=20
 
+### Day 57: 14th of December
+
+![dynamictransitions](https://user-images.githubusercontent.com/63045067/102130882-51bfef80-3e49-11eb-94ee-75eb4dc42429.gif)
+
+**Today's Progress**:   
+
+Learned how to use diff #d3 transitions types and how to change their delay times and durations.  
+Also created a function that calculates duration times based on the dataset size making the code 'scaleable'!    
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1338580063143538688?s=20
 
