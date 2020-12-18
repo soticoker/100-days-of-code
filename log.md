@@ -731,3 +731,18 @@ Also created a function that calculates duration times based on the dataset size
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1338580063143538688?s=20
 
+### Day 58: 18th of December
+
+
+**Today's Progress**:   
+
+I've been working on my Scrollytelling project today and was focused on CSS. Decided it was a good idea to have another tutorial on CSS.
+
+Completed freecodecamp's CSS crash course tutorial
+https://www.youtube.com/watch?v=r1xBCi5SOjw
+
+Learned how to use CSS web fonts in my web apps
+
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1340033520996118540?s=20
