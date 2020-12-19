@@ -746,3 +746,15 @@ Learned how to use CSS web fonts in my web apps
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1340033520996118540?s=20
+
+
+### Day 59: 19th of December
+
+![webfonts](https://user-images.githubusercontent.com/63045067/102690728-44b34f80-41ff-11eb-8232-145d79ae59c0.jpg)
+
+**Today's Progress**:   
+
+Set up web fonts to use in my DataViz project using CSS @font-face Rules.
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1340291044865404929?s=20
