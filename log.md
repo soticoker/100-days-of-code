@@ -758,3 +758,18 @@ Set up web fonts to use in my DataViz project using CSS @font-face Rules.
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1340291044865404929?s=20
+
+### Day 60: 20th of December
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh
+
+**Today's Progress**:   
+
+Completed a few CSS tutorials today.
+Reviewed CSS Box model, the differences between block level elements, and in-line elements.
+Learned about the normal document flow, i.e. how things are presented before we apply positional elements to them on a webpage.
+And learned what floating elements are and how to use them!
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1340664665190313990
+
