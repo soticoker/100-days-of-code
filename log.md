@@ -773,3 +773,11 @@ And learned what floating elements are and how to use them!
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1340664665190313990
 
+### Day 61: 21th of December
+
+**Today's Progress**:   
+
+Completed exercises on CSS floating elements, experimenting with different layouts.  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1341153745674055680?s=20
