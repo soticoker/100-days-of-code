@@ -783,7 +783,7 @@ Completed exercises on CSS floating elements, experimenting with different layou
 https://twitter.com/SotiCoker/status/1341153745674055680?s=20
 
 
-#### Day 62: 4th of January
+## Day 62: 4th of January
 
 **Today's Progress**:   
 Have resumed my studies of the the Scrollama JavaScript library.  
