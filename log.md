@@ -781,3 +781,15 @@ Completed exercises on CSS floating elements, experimenting with different layou
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1341153745674055680?s=20
+
+
+#### Day 62: 4th of January
+
+**Today's Progress**:   
+Have resumed my studies of the the Scrollama JavaScript library.  
+along the way, I've had to revise how to use arrow functions and learn about
+HTML classlist properties.
+
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1346132947175407616?s=20
