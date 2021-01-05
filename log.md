@@ -794,7 +794,7 @@ HTML classlist properties.
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1346132947175407616?s=20
 
-### Day 63: 5th of January   
+#### Day 63: 5th of January   
 
 **Today's Progress**:   
 Worked through Scrollama tutorial JavaScript library.  Still grapling with a few concepts used.  
