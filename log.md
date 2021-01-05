@@ -793,3 +793,12 @@ HTML classlist properties.
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1346132947175407616?s=20
+
+### Day 63: 5th of January   
+
+**Today's Progress**:   
+Worked through Scrollama tutorial JavaScript library.  Still grapling with a few concepts used.  
+Things like callback functions have been proving tricky to fully understand. So I revised how CSS position properties work & learning callback functions work.  
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1346547397569228804?s=20
