@@ -802,3 +802,15 @@ Things like callback functions have been proving tricky to fully understand. So 
 
 **Link(s) to work**:   
 https://twitter.com/SotiCoker/status/1346547397569228804?s=20
+
+
+## Day 64: 7th of January   
+
+**Today's Progress**:   
+
+Completed NetNinja's tutorial on Callback functions !
+https://www.youtube.com/watch?v=QRq2zMHlBz4&t=406s
+Finally get how they work !
+
+**Link(s) to work**:   
+https://twitter.com/SotiCoker/status/1347175040857624576?s=20
