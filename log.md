@@ -815,3 +815,16 @@ Finally get how they work !
 **Link(s) to work**:    
 https://twitter.com/SotiCoker/status/1347175040857624576?s=20 
 
+
+## Day 65: 9th of January   
+
+**Today's Progress**: 
+Watched Scrollama library tutorial by it's creator Russell Goldberg.  
+https://www.youtube.com/watch?v=rXHtHLiBWhY
+
+Researched methods to improve how to learn programming languages effectively looking for a new JavaScript book.  
+
+**Link(s) to work**:    
+
+https://twitter.com/SotiCoker/status/1347905647304704001?s=20  
+
